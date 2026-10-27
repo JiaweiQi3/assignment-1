@@ -38,6 +38,19 @@ body {
 
 #next-button {
     display: none;
+    width: 100%;
+    padding: 15px;
+    margin-top: 15px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    font-family: inherit;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#next-button:hover {
+    background-color: #218838;
 }
 
 .option:hover {
