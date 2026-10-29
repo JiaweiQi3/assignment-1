@@ -61,6 +61,6 @@ body {
     background-color: #28a745;
 }
 
-.option.incorrect {
+.option.wrong {
     background-color: #dc3545;
 }
