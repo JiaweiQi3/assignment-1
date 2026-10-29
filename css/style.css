@@ -56,3 +56,11 @@ body {
 .option:hover {
     background-color: #004494;
 }
+
+.option.correct {
+    background-color: #28a745;
+}
+
+.option.incorrect {
+    background-color: #dc3545;
+}
